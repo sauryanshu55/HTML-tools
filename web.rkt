@@ -1,12 +1,4 @@
 #lang racket
-;;;CSC151 Functional Problem solving/w lab
-;;;DATE: 21st November '21
-;;;CITATIONS: 1) CSC 151 Mini project 3, part 2
-;;;           2)https://www.sketchengine.eu/english-word-list/
-;             3)https://www.sketchengine.eu/spanish-word-list/
-;             4) CSC 151 Mini Project 3, Last part
-;;;ACKNOWLEDGEMENTS: Got some help, annd helped some parts to/with Jio, David and Patrick
-
 ;;;----------------------------------PART ONE------------------------------------------------------------------
 (require csc151www)
 (require csc151/rex)
